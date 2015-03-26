@@ -29,7 +29,7 @@ public class CrashActivity extends Activity {
 		findViewById(R.id.btnerror).setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View view) {
-				
+				// Handle your click here.
 				
 			}
 		});
